@@ -1,0 +1,26 @@
+#title{
+    text-align: center;}
+    
+    #img-caption{
+    width: 300px;
+    text-align:center;
+    margin-left: auto;
+    margin-right: auto;}
+    
+    #image{
+      max-width: 100%;
+      height: auto;
+      display:block;
+      margin-left:auto;
+      margin-right:auto;
+    }
+    
+    #tribute-info{
+    font-size: 25px;}
+    
+    #footer{
+     text-align: center;
+      font-size: 18px;
+    }
+    h2{
+      margin-left:20px;}
